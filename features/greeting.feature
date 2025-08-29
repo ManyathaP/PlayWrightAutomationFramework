@@ -9,7 +9,7 @@ Feature: Greeting
 
 		 Examples:
           | username    	  | 	password  |
-          | anshika@gmail.com | Iamking@000   |
+          | pqrs2001@gmail.com | Abcd@1234  |
 
 
 
@@ -23,7 +23,7 @@ Feature: Greeting
 
 		 Examples:
           | username    	  | 	password  |
-          | anshika@gmail.com | Iamking@000   |
+          | pqrs2001@gmail.com | Abcd@1234   |
        
        
        
